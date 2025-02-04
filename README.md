@@ -18,7 +18,8 @@ After a 5-year career in teaching, I discovered a passion for software developme
 ### **1️⃣ Platform Blog Application**  
 🛠 _React, Node.js, Express, AWS (DynamoDB)_  
 📌 A cloud-based blog platform where users can create, edit, and manage posts while also interacting with other users.  
-🔗 **** | 🌐 **https://platform-blogging-app.onrender.com/**  
+Frontend 🔗 **https://github.com/rymbowman/Blog-App-Client** 
+Backend 🔗 **https://github.com/rymbowman/Blog-App-Api** 🌐 **https://platform-blogging-app.onrender.com/**  
 
 ### **2️⃣ Dynasty Fantasy Football Website**  
 🛠 _React, JavaScript, CSS  
