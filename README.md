@@ -18,13 +18,14 @@ After a 5-year career in teaching, I discovered a passion for software developme
 ### **1️⃣ Platform Blog Application**  
 🛠 _React, Node.js, Express, AWS (DynamoDB)_  
 📌 A cloud-based blog platform where users can create, edit, and manage posts while also interacting with other users.  
-Frontend 🔗 **https://github.com/rymbowman/Blog-App-Client** 
-Backend 🔗 **https://github.com/rymbowman/Blog-App-Api** 🌐 **https://platform-blogging-app.onrender.com/**  
+🔗 **https://github.com/rymbowman/Blog-App-Client** (Frontend)
+🔗 **https://github.com/rymbowman/Blog-App-Api** (Backend)
+🌐 **https://platform-blogging-app.onrender.com/**  
 
 ### **2️⃣ Dynasty Fantasy Football Website**  
 🛠 _React, JavaScript, CSS  
 📌 A personal league website that displays real-time league stats, rankings, transactions, and league history.  
-🔗 **** | 🌐 **https://fantasy-football-website.onrender.com/**  
+🔗 **https://github.com/rymbowman/Fantasy-Football-Website** | 🌐 **https://fantasy-football-website.onrender.com/**  
 
 ### **3️⃣ Task Management App**  
 🛠 _React, JavaScript_  
@@ -32,8 +33,8 @@ Backend 🔗 **https://github.com/rymbowman/Blog-App-Api** 🌐 **https://platfo
 🔗 **** | 🌐 ****  
 
 ### **4️⃣ Fun Mini-Projects**  
-🎮 **Etch-A-Sketch Game** – A browser-based drawing tool using JavaScript & CSS.  
-✊ **Rock-Paper-Scissors** – A simple interactive game to test JavaScript logic.  
+🎮 **Etch-A-Sketch Game** – A browser-based drawing tool using JavaScript & CSS. 🔗 **https://github.com/rymbowman/Etch-A-Sketch-Final-Project**
+✊ **Rock-Paper-Scissors** – A simple interactive game to test JavaScript logic. 🔗 **https://github.com/rymbowman/Rock-Paper-Scissors-Final-Project**
 
 ---
 
