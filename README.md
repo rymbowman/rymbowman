@@ -34,6 +34,7 @@ After a 5-year career in teaching, I discovered a passion for software developme
 
 ### **4️⃣ Fun Mini-Projects**  
 🎮 **Etch-A-Sketch Game** – A browser-based drawing tool using JavaScript & CSS. 🔗 **https://github.com/rymbowman/Etch-A-Sketch-Final-Project**
+
 ✊ **Rock-Paper-Scissors** – A simple interactive game to test JavaScript logic. 🔗 **https://github.com/rymbowman/Rock-Paper-Scissors-Final-Project**
 
 ---
