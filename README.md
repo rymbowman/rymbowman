@@ -27,10 +27,9 @@ After a 5-year career in teaching, I discovered a passion for software developme
 📌 A personal league website that displays real-time league stats, rankings, transactions, and league history.  
 🔗 **https://github.com/rymbowman/Fantasy-Football-Website** | 🌐 **https://fantasy-football-website.onrender.com/**  
 
-### **3️⃣ Task Management App**  
-🛠 _React, JavaScript_  
+### **3️⃣ Task Management App (Currently In Progress) **  
+🛠 _React, Node.js, Express, AWS (DynamoDB)_   
 📌 A simple yet functional task manager to create, edit, and check off tasks.  
-🔗 **** | 🌐 ****  
 
 ### **4️⃣ Fun Mini-Projects**  
 🎮 **Etch-A-Sketch Game** – A browser-based drawing tool using JavaScript & CSS. 🔗 **https://github.com/rymbowman/Etch-A-Sketch-Final-Project**
