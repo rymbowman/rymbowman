@@ -27,14 +27,14 @@ After a 5-year career in teaching, I discovered a passion for software developme
 📌 A personal league website that displays real-time league stats, rankings, transactions, and league history.  
 🔗 **https://github.com/rymbowman/Fantasy-Football-Website** | 🌐 **https://fantasy-football-website.onrender.com/**  
 
-### **3️⃣ Task Management App (Currently In Progress) **  
-🛠 _React, Node.js, Express, AWS (DynamoDB)_   
-📌 A simple yet functional task manager to create, edit, and check off tasks.  
-
-### **4️⃣ Fun Mini-Projects**  
+### **3️⃣ Fun Mini-Projects**  
 🎮 **Etch-A-Sketch Game** – A browser-based drawing tool using JavaScript & CSS. 🔗 **https://github.com/rymbowman/Etch-A-Sketch-Final-Project**
 
-✊ **Rock-Paper-Scissors** – A simple interactive game to test JavaScript logic. 🔗 **https://github.com/rymbowman/Rock-Paper-Scissors-Final-Project**
+✊ **Rock-Paper-Scissors** – A simple interactive game to test JavaScript logic. 🔗 **https://github.com/rymbowman/Rock-Paper-Scissors-Final-Project** 
+
+### **4️⃣ (Currently In Progress) Task Management App **  
+🛠 _React, Node.js, Express, AWS (DynamoDB)_   
+📌 This project is part of my journey to improve my JavaScript and backend skills. Through this project, I aim to get better at building responsive UIs with React, creating robust backends with Node.js, and managing databases with AWS. I'm also focusing on enhancing my understanding of API development, authentication, and state management. Stay tuned for updates as I make progress! 
 
 ---
 
