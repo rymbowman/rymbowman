@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ryan Bowman!  
 
-🚀 **Former teacher turned software developer** | 🏀 Basketball Coach | 🦅 Philadelphia Eagles Fan  
+🚀 **Former teacher --> aspiring software developer** | 🏀 Basketball Coach | 🦅 Philadelphia Eagles Fan  
 
 After a 5-year career in teaching, I discovered a passion for software development and have been diving deep into full-stack web development. My journey has been fueled by hands-on projects and continuous learning.  
 
@@ -9,7 +9,7 @@ After a 5-year career in teaching, I discovered a passion for software developme
 ## 🛠 Tech Stack  
 🔹 **Frontend:** HTML, CSS, JavaScript, React  
 🔹 **Backend:** Node.js, Express  
-🔹 **Database & Cloud:** AWS (DynamoDB), Firebase  
+🔹 **Database & Cloud:** AWS (DynamoDB), Postgres
 
 ---
 
@@ -47,7 +47,7 @@ I've been actively learning through various resources, including:
 ---
 
 ## 📫 Let's Connect! 
-🌐 [Portfolio Website] 
+🌐 [Portfolio Website] https://ryan-bowman-portfolio.onrender.com
 📧 [Email] rymbowman@gmail.com
 💼 [LinkedIn] www.linkedin.com/in/ryanbowman24
 <!---
