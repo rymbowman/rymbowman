@@ -47,9 +47,9 @@ I've been actively learning through various resources, including:
 ---
 
 ## 📫 Let's Connect! 
-🌐 [Portfolio Website] https://ryan-bowman-portfolio.onrender.com
-📧 [Email] rymbowman@gmail.com
-💼 [LinkedIn] www.linkedin.com/in/ryanbowman24
+🌐 https://ryan-bowman-portfolio.onrender.com
+📧 rymbowman@gmail.com
+💼 www.linkedin.com/in/ryanbowman24
 <!---
 rymbowman/rymbowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
