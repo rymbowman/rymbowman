@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ryan Bowman!  
 
-🚀 **Former teacher --> aspiring software developer** | 🏀 Basketball Coach | 🦅 Philadelphia Eagles Fan  
+🚀 **Former teacher --> aspiring Javascript Engineer** | 🏀 Basketball Coach | 🦅 Philadelphia Eagles Fan  
 
 After a 5-year career in teaching, I discovered a passion for software development and have been diving deep into full-stack web development. My journey has been fueled by hands-on projects and continuous learning.  
 
